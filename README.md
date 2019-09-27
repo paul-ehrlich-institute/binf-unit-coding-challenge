@@ -8,7 +8,7 @@ Three input files have been provided:
 * **`intervals.gff`** A GFF file with a set of mRNA coordinates for the sequences in `sequences.fasta`.
 * **`standard_code.txt`** A tab delimited table mapping codons to single letter amino acids.
 
-Using these three files, write a *non-interactive* command line tools that:
+Using these three files, write a *non-interactive* command line tool that:
 
 1. Takes the three files as arguments,
 2. Extracts the mRNA sequences from `sequences.fasta` given the coordinates in `intervals.gff`,
