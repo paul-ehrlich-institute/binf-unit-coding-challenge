@@ -15,4 +15,4 @@ Using these three files, write a *non-interactive* command line tool that:
 3. Translates all six reading frames of the mRNA sequence given the genetic code in `standard_code.txt`,
 4. Prints the longest translation of each mRNA sequence to standard output in FASTA file format.
 
-When evaluating the code, special attention will be given to the use of clean coding practices and extensibility. The output for the given input files is can be found in `genes.fasta`. Your solution will also be tested on additional input.
+When evaluating the code, special attention will be given to the use of clean coding practices and maintainability. The output for the given input files is can be found in `genes.fasta`. Your solution will also be tested on additional input.
